@@ -1,0 +1,50 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 1%;
+    background-color: rgb(47, 76, 142);
+    border: 2px solid black;
+}
+body {
+    background-image: linear-gradient(lightgray, lightgreen, lightblue, pink);
+  }
+nav ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav a {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.image {
+    padding: 1%;
+    border: 2px solid black;
+    width: 250px;
+    text-align: center;
+    margin: auto;
+}
+
+.profile-pic {
+    width: 250px;
+    align-items: center;
+}
+
+
+.intro-column {
+    padding: 1%;
+    border: 2px solid black;
+}
+.skills-column {
+    padding: 1%;
+    border: 2px solid black;
+}
+.main-text {
+    padding: 1%;
+    border: 2px solid black;
+}
+.contact-edit {
+    padding: 1%;
+    border: 2px solid black;
+}
